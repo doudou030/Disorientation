@@ -9,6 +9,6 @@
 
 ## Python Library
 - tkinter
-- mido
+- pygame
 - threading
 - random
